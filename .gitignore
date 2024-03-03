@@ -2,7 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,linux,macos,node
 
 ### mis archivos ignorados ###
-build/ 
+dist/
  
 
 ### Linux ###
@@ -92,7 +92,7 @@ bower_components
 .lock-wscript
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)
-#build/Release
+build/Release
 
 # Dependency directories
 node_modules/
