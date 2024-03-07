@@ -6,6 +6,6 @@ var text = 'hola' + ' como estas';
 var bandera = false;
 //Aqui declararemos valores constantes y sus valores no cambian.
 var listaNumeros = [12, 43, 2, 23, 4];
+// no se recomienda utilizar salvo sea muy necesario
 var cualquiera = false;
-$.
-    console.log(text);
+console.log(text);
