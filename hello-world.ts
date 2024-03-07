@@ -11,5 +11,4 @@ const listaNumeros: number[] =  [12,43,2,23,4]
 const cualquiera: any = false
 console.log(text)
 
-
 //Comentario de prueba
