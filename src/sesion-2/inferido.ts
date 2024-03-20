@@ -1,4 +1,4 @@
-console.log(text)
+//console.log(text)
 //valores inferidos o no mutables
 let songName = 'el tucanazo'
 /*la siguiente asignación es erronea por que estamos
